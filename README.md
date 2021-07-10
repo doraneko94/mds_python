@@ -116,4 +116,4 @@ In the demo in the source code, MDS is applied to the `iris` dataset.
 ![Euclidean](img/euclidean.png)
 
 ## cosine
-![Euclidean](img/cosine.png)
+![Cosine](img/cosine.png)
